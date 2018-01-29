@@ -75,7 +75,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\font-awesome.min.css" />
     <Content Include="css\w3-theme-blue-grey.css" />
     <Content Include="css\w3.css" />
     <Content Include="images\forest.jpg" />

@@ -77,6 +77,7 @@
   <ItemGroup>
     <Content Include="css\w3-theme-blue-grey.css" />
     <Content Include="css\w3.css" />
+    <Content Include="images\CST Logo.png" />
     <Content Include="images\forest.jpg" />
     <Content Include="images\image.jpg" />
     <Content Include="images\img_avatar.png" />
